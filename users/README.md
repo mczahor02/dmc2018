@@ -14,7 +14,7 @@ to be announced later...
 | [jiamingqiu](https://github.com/jiamingqiu) | | |
 | [kstatju](https://github.com/kstatju) | | |
 | [lijing28101](https://github.com/lijing28101) | |	|
-| [mczahor02](https://github.com/mczahor02) | | |
+| [mczahor02](https://github.com/mczahor02) |Michael |I enjoy coaching soccer and working on sports analytics problems. |
 | [mujingru](https://github.com/mujingru) | | |
 | [omnijust](https://github.com/omnijust) | | |
 | [qiaoyang00](https://github.com/qiaoyang00) | |  |
